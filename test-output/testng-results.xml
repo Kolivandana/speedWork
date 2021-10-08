@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Book store Live Project" duration-ms="133" started-at="2021-09-14T10:23:35Z" finished-at="2021-09-14T10:23:35Z">
+    <groups>
+    </groups>
+    <test name="Whole coverage" duration-ms="133" started-at="2021-09-14T10:23:35Z" finished-at="2021-09-14T10:23:35Z">
+      <class name="com.sdw.qa.tests.First">
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.sdw.qa.tests.First@e677af]" name="m2" duration-ms="45" started-at="2021-09-14T10:23:35Z" finished-at="2021-09-14T10:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- com.sdw.qa.tests.First -->
+    </test> <!-- Whole coverage -->
+  </suite> <!-- Book store Live Project -->
+</testng-results>
