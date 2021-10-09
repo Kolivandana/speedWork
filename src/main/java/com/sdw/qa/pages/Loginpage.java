@@ -8,4 +8,7 @@ public class Loginpage {
 	public void method2() {
 		System.out.println("Hello");
 	}
+	public void method3() {
+		System.out.println("Hello again");
+	}
 }
